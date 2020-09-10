@@ -10,7 +10,6 @@ alias lear='clear'
 alias lcear='clear'
 alias k='kubectl'
 alias kgp='kubectl get pods'
-alias pods='kubectl get pods'
 
 # k autocomplete 
 complete -F __start_kubectl k
