@@ -11,6 +11,9 @@ alias lcear='clear'
 alias k='kubectl'
 alias kgp='kubectl get pods'
 
+# remove mac zsh terminal msg
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
 # k autocomplete 
 complete -F __start_kubectl k
 
