@@ -10,3 +10,6 @@
 
 https://docs.github.com/en/enterprise/2.17/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
+### setting up oh-my-zsh for kube-ps1
+
+https://lobogit.unm.edu/blue/linux-cfg/-/tree/59176530912c8cf195070bb6149ea6498b5b5008/.oh-my-zsh/plugins/kube-ps1
